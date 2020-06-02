@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseService.js","sourceRoot":"","sources":["../../../App/services/BaseService.ts"],"names":[],"mappings":";;AAEA,MAAa,WAAW;IAEV,IAAI,CAAC,GAAa;QAExB,IAAI,GAAG,CAAC,EAAE,EAAE;YACR,OAAO,GAAG,CAAC;SACd;aACI;YACD,MAAM,IAAI,KAAK,CAAC,GAAG,CAAC,UAAU,CAAC,CAAC;SACnC;IACL,CAAC;CACJ;AAXD,kCAWC"}
